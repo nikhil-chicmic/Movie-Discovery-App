@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#ffffff",
   },
   header: {
-    fontSize: 24,
+    fontSize: 23,
     fontWeight: "700",
     paddingHorizontal: 16,
     paddingBottom: 15,
